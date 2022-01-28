@@ -150,7 +150,7 @@ async def start(client, message):
                     InlineKeyboardButton('channel', url='https://t.me/tamil_rockers_mallu')
                 ],
                 [
-                    InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                    InlineKeyboardButton('⭕️Join Main Channel⭕️', url=f'https://t.me/tamil_rockers_mallu')
                 ]
                 ]
             try:
