@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('help', callback_data='help'),
             InlineKeyboardButton('about', callback_data='about')
             ],[
-            InlineKeyboardButton('search here movie', switch_inline_query_current_chat='')
+            InlineKeyboardButton('search here movi', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('updates', url='https://t.me/josprojects'),
             InlineKeyboardButton('movie club', url='https://t.me/+y53tWFUw6Q43NzE9')
@@ -146,8 +146,8 @@ async def start(client, message):
                 f_caption = f"{title}"
             buttons = [
                 [
-                    InlineKeyboardButton('support', url='https://t.me/mmf_chat'),
-                    InlineKeyboardButton('channel', url='https://t.me/tamil_rockers_mallu')
+                    InlineKeyboardButton('❤️support❤️', url='https://t.me/mmf_chat'),
+                    InlineKeyboardButton('⭕️channel⭕️', url='https://t.me/tamil_rockers_mallu')
                 ],
                 [
                     InlineKeyboardButton('⭕️Join Main Channel⭕️', url=f'https://t.me/tamil_rockers_mallu')
