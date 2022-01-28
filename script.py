@@ -21,7 +21,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/Malayalammovie/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
 - <a href='https://t.me/tamil_rockers_mallu'>Lucifer</a>
@@ -54,7 +54,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/tamil_rockers_mallu)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -270,7 +270,7 @@ Some URLs is Shortner
 • /short <code>(link)</code> - I will send the shorted links.
 
 <b>Example:</b>
-<code>/short https://t.me/josprojects</code>
+<code>/short https://t.me/tamil_rockers_mallu</code>
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
