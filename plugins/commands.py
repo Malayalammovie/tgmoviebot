@@ -48,10 +48,10 @@ async def start(client, message):
             InlineKeyboardButton('help', callback_data='help'),
             InlineKeyboardButton('about', callback_data='about')
             ],[
-            InlineKeyboardButton('search here movi', switch_inline_query_current_chat='')
+            InlineKeyboardButton('search here movie', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('updates', url='https://t.me/josprojects'),
-            InlineKeyboardButton('movie club', url='https://t.me/+y53tWFUw6Q43NzE9')
+            InlineKeyboardButton('⭕️Join Main Channel⭕️', url='https://t.me/tamil_rockers_mallu'),
+            InlineKeyboardButton('❤️Join Group❤️', url='https://t.me/mmf_chat')
             ],[
             InlineKeyboardButton('✗ Close the Menu ✗', callback_data='close_data')
         ]]
@@ -260,8 +260,8 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('support', url='https://t.me/mmf_chat'),
-            InlineKeyboardButton('channel', url='https://t.me/tamil_rockers_mallu')
+            InlineKeyboardButton('❤️Join Group❤️', url='https://t.me/mmf_chat'),
+            InlineKeyboardButton('⭕️Join Main channel❤️', url='https://t.me/tamil_rockers_mallu')
         ],
         [
             InlineKeyboardButton('MMF Series & Movie', url=f'https://t.me/MMF_series')
